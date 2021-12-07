@@ -1,0 +1,5 @@
+[caps]
+automationName = "UIAutomator2"
+platformName = "Android"
+deviceName = "emulator"
+app = "//home//julio//Nuclone//app//nuclone.apk"
