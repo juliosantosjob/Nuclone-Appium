@@ -1,7 +1,7 @@
 #language:pt 
 
   Funcionalidade: Interação com o app
-  - Eu como usuário devo poder interagir com o app nuclone
+  - Eu como usuário devo poder interagir com o app nuclone 
   
     @myBalance
     Cenario: Verificação de saldo
